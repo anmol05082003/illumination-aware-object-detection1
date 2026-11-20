@@ -1,0 +1,16 @@
+# Core (router logic + tests)
+numpy
+PyYAML
+pytest
+# Detection + evaluation (demo / evaluate scripts, notebook)
+torch
+torchvision
+ultralytics
+opencv-python
+Pillow
+pycocotools
+pandas
+matplotlib
+tqdm
+ensemble-boxes   # only for the earlier WBF experiments in the notebook
+gdown            # only for restoring data in Colab
